@@ -1,5 +1,5 @@
 # characterRecognition
-Recognize English character and digits in picture
+Recognize English character and digits in picture</br>
 This repository contains 2 projects,generatedXMl is for obtain xml file,which stored classfication training data,then in project "identification",using xml file as input to create a k-NearestNeighbor model for character recognition purpose,and carry out recognition test.
 
 ##project generatorXml summary
