@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1489311335 source:/home/saintk/Documents/CodeBlocks/OpencvProjects/identification/main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/ml/ml.hpp>
+	<iostream>
+	<vector>
+
